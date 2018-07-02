@@ -31,6 +31,8 @@ Here are the individual components that you will need:
 * Force sensor, we used OptoForce 10N
 * 3D printed files and laser cut parts from our repository
 
+![parts](images/parts.png)
+
 ### Step 1: Assembling the base
 
 We start by connecting the two 40x40x420 mm aluminum profiles with the 40x40x120 mm aluminum profile using two right angle connectors. This will form a solid base to which we can attach other parts of the machine and will not shift during use.
