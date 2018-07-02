@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+Digital drawing is becoming a favorite technique for many artists. It allows for quick swaps between different materials, reverting changes, and applying selective modifications to finished artwork. These features enable artists to be more efficient and creative. A significant disadvantage of digital drawing is poor haptic feedback. Artists are usually limited to one surface and a few different stylus nibs, and while they try to find a combination that suits their needs, this is typically challenging. In this work, we address this problem and propose a method for designing, evaluating, and optimizing different stylus designs. We begin with collecting a representative set of traditional drawing tools. We measure their physical properties and conduct a user experiment to build a perceptual space that encodes perceptually-relevant attributes of drawing materials. The space is optimized to both explain our experimental data and correlate it with measurable physical properties. To embed new drawing tool designs into the space without conducting additional experiments and measurements, we propose a new, data-driven simulation technique for characterizing stylus-surface interaction.We finally leverage the perceptual space, our simulation, and recent advancements in multi-material 3D printing to demonstrate the application of our system in the design of new digital drawing tools that mimic traditional drawing materials.
 
-You can use the [editor on GitHub](https://github.com/misop/Perception-Aware-Modeling-and-Fabrication-of-Digital-Drawing-Tools/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[Project webpage](http://pdf.mmci.uni-saarland.de/projects/DigitalStylus/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/misop/Perception-Aware-Modeling-and-Fabrication-of-Digital-Drawing-Tools/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Supplementary material
