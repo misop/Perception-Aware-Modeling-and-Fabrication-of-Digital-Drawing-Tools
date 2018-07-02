@@ -35,6 +35,8 @@ Here are the individual components that you will need:
 
 We start by connecting the two 40x40x1?? mm aluminum profiles with the 40x40x3?? mm aluminum profile using two right angle connectors. This will form a solid base to which we can attach other parts of the machine and will not shift during use.
 
+![step1](images/base.JPG)
+
 ### Step 2: Rising the mast
 
 Next we use another two right angle connectors to attach the 40x40x2?? mm aluminum profile to the base as seen on the picture. We will later attach the pulley and mechanical arm to this mast.
