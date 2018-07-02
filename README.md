@@ -41,37 +41,55 @@ We start by connecting the two 40x40x1?? mm aluminum profiles with the 40x40x3??
 
 Next we use another two right angle connectors to attach the 40x40x2?? mm aluminum profile to the base as seen on the picture. We will later attach the pulley and mechanical arm to this mast.
 
+![step2](images/mast.JPG)
+
 ### Step 3: Assembling the motor assembly
 
 First, we need to make the motor holder connectible to our aluminum profile. To do this we drilled a simple hole. Next, we attch the holder to the 40x40x3?? mm aluminum profile using an aluminum connector. To prevent vibrations from the motor to the rest of the system we can attach a piece of rubber between the holder and the aluminum piece. Also to prevent shifting of the motor we added some zip-ties for extra strength. Finally, we attach the motor and a right angle joint to finish the motor assembly.
+
+![step3](images/motor_asembly.JPG)
 
 ### Step 4: Attaching the motor assembly
 
 Now we can attach the motor assembly. Remember to leave enough space for the rotating disc to move freely.
 
+![step4](images/motor.JPG)
+
 ### Step 5: Adding auxiliary attachment arm
 
 Now we can use a second right angle joint and attach the 40x40x4?? mm aluminum profile. This arm will be used to attach hand rest for user studies.
+
+![step5](images/side_arm.JPG)
 
 ### Step 6: Adjustable hand rest
 
 To make an adjustable hand rest we use the adjustable angle joint to connect the 40x40x5?? mm profile as seen on the pciture.
 
+![step6](images/side_base.JPG)
+
 ### Step 7: Attaching hand support
 
 We attach the 10x40x6?? mm aluminum profile using the last right angle joint forming a base that can be used to rest a hand during experiments.
+
+![step7](images/base_for_hand.JPG)
 
 ### Step 8: Making the handrest more comfortable
 
 To make the handrast more comfortable we used double-sided duct tape to connect an arm protector with some padding to the base.
 
+![step8](images/protector.JPG)
+
 ### Step 9: Making the pulley
 
 We use the last right angle joint and thread it with the ?? M nut and bolt. We use another ?? M nut and bolt to connect the pulley to the other side of the joint.
 
+![step9](images/pulley_assembly.JPG)
+
 ### Step 10: Attaching the pulley
 
 Now that the pulley is assembled we can connect it to the mast using an aluminum connector.
+
+![step10](images/pulley.JPG)
 
 ### Step 11: Assembling the turn table
 
@@ -79,21 +97,31 @@ We start by lasercutting and 3D printing our turntable design. We can connect th
 
 *note:* the magnets are a crucial piece of the setup as they allow for easy and quick replacement of measuring substrates. 
 
+![step11](images/turn_table_assembly.JPG)
+
 ### Step 12: Attaching the turn table
 
 Now we can simply attach the turn table to the motor assembly.
 
+![step12](images/turn_table.JPG)
+
 ### Step 13: Assembling the arm
 
-We thread the 3D printed arm with a ??M nut and bolt. The fit should be such that the arm can rotate freely without wiggle. To achieve this we use a stop bolt. Alternatively, you can use ballbearings to attach the arm.
+We thread the 3D printed arm with a ??M nut and bolt. The fit should be such that the arm can rotate freely without wiggle. To achieve this we use a stop bolt. Alternatively, you can use ballbearings to attach the arm. We also add a piece of wire to attach weight that will go on the pulley and push the drawing tool into the surface with specific constant force.
+
+![step13](images/mechanical_arm_assembly.JPG)
 
 ### Step 14: Attaching the arm
 
 Now we can simply attach the arm to the mast using an aluminum connector.
 
+![step14](images/mechanical_arm.JPG)
+
 ### Step 15: Vibration measurements
 
 For vibration measurements we use the 3D printed holder attached directly to the mechanical arm. We use a piece of rubber to limit the vibrations of the machine to influance the measurement on the tool.
+
+![step15](images/vibration_measurements.JPG)
 
 ### Step 16: Friction measurements
 
