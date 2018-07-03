@@ -25,7 +25,7 @@ Here are the individual components that you will need:
 * 1x Motor holder
 * 1x Motor head mount
 * 1x DC motor controller: Pololu Simple High-Power Motor Controller 18v25 
-* 1x Hacked 12V AC->DC converter for the motor
+* 1x Hacked 12V AC/DC converter for the motor
 * 8x Neudimum magnet
 * 1x Arm protector
 * Force sensor, we used OptoForce 10N
